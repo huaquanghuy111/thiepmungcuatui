@@ -1,7 +1,7 @@
 
-var to = 'Em!';
-var gift_url = 'http://nodemy.vn';
-var gift_image_url = 'hot-girl.png';
+var to = 'Thinh Oanh';
+var gift_url = '';
+var gift_image_url = 'thinhoanh.JPG';
 
 
 var nametag = document.getElementById("nametag");
