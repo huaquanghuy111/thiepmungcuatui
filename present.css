@@ -211,3 +211,10 @@ html, body {
       transform: rotateX(-167deg) rotateY(-180deg) translateZ(-15px) scale(1.2);
     }
   }
+  @media (max-width: 740px){
+    .wrap-present{
+      position: absolute;
+      top:70%;
+
+    }
+  }
